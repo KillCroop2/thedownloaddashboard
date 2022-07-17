@@ -1,5 +1,5 @@
 # The Download Dashboard
-The Download Dashboard is a software to share and dowload files, and softwares with other members.
+The Download Dashboard is a software to share and download files, and programs with other members.
 
 Registration is limited, then only registered users can create new accounts for their friends.
 
