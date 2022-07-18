@@ -8,6 +8,7 @@ Registration is limited, then only registered users can create new accounts for 
  - Edit and delete own uploaded files.
  - Register up to 3 new accounts.
  - Upload a file every hour.
+ - 1 GB upload limit.
 
 # 👑 Premium Features
  - Unlimited Downloads.
@@ -15,6 +16,7 @@ Registration is limited, then only registered users can create new accounts for 
  - Register up to 10 new accounts.
  - Upload files without time limit.
  - Uploaded files get highlighted.
+ - 10 GB upload limit
  
 
 # 🖼️ Preview
