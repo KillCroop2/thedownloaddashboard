@@ -18,5 +18,5 @@ Registration is limited, then only registered users can create new accounts for 
  
 
 # 🖼️ Preview
-![preview](https://i.imgur.com/0B5boFa.png)
+![preview](https://imgur.com/a/L85uFhH)
 # [Download](https://download1319.mediafire.com/7gw8nsjq69ng/1uk2uvcamjl34uj/TheDownloadDashboard.exe)
