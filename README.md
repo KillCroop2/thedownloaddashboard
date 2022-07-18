@@ -18,6 +18,6 @@ Registration is limited, then only registered users can create new accounts for 
  
 
 # 🖼️ Preview
-![preview](https://ibb.co/cQNbLP2)
+![https://ibb.co/cQNbLP2](https://i.ibb.co/NKL1SXW/K-perny-k-p-2022-07-18-042342.png)
 
 # [Download](https://download1319.mediafire.com/7gw8nsjq69ng/1uk2uvcamjl34uj/TheDownloadDashboard.exe)
